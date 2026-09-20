@@ -1,0 +1,6 @@
+{
+  "name": "Bank Soal",
+  "description": "Aplikasi Bank Soal berbasis Google Spreadsheet untuk manajemen dan latihan soal pilihan ganda, meneruskan, dan melengkapi bertulisan Arab/Pegon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

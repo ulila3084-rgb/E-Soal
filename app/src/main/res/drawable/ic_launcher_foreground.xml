@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Group centered in 108dp canvas -->
+    <group>
+        <!-- Book Base / Stand -->
+        <path
+            android:fillColor="#14B8A6"
+            android:pathData="M32,40 C32,38 34,36 37,36 L52,38 L52,72 L37,70 C34,70 32,68 32,66 Z" />
+        <path
+            android:fillColor="#2DD4BF"
+            android:pathData="M76,40 C76,38 74,36 71,36 L56,38 L56,72 L71,70 C74,70 76,68 76,66 Z" />
+        <path
+            android:fillColor="#0D9488"
+            android:pathData="M52,38 L56,38 L56,72 L52,72 Z" />
+        <!-- Inner page lines -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.8"
+            android:strokeLineCap="round"
+            android:pathData="M38,46 L47,47 M38,53 L47,54 M38,60 L45,61" />
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1.8"
+            android:strokeLineCap="round"
+            android:pathData="M61,47 L70,46 M61,54 L70,53 M63,61 L70,60" />
+        <!-- Floating Emblem Badge (Checkmark & Star) -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M54,23 L57,30 L64,30 L59,34 L61,41 L54,37 L47,41 L49,34 L44,30 L51,30 Z" />
+        <!-- Bottom Stand Arc -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#5EEAD4"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:pathData="M40,75 Q54,82 68,75" />
+    </group>
+</vector>
